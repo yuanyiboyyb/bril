@@ -22,3 +22,6 @@ build/
 examples/test/tdce/*.json
 converse.sh
 .lingma/
+GPATH
+GRTAGS
+GTAGS
